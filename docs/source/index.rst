@@ -17,7 +17,7 @@ Welcome to FinRL Library!
 
 **Disclaimer: Nothing herein is financial advice, and NOT a recommendation to trade real money. Please use common sense and always first consult a professional before trading or investing.**
 
-**AI4Finance** community provides this demonstrative and educational resource, in order to efficiently automate trading. FinRL is the first open source framework for financial reinforcement learning. 
+**AI4Finance** community provides this demonstrative and educational resource, in order to efficiently automate trading. FinRL is the first open source framework for financial reinforcement learning.
 
 .. _FinRL: https://github.com/AI4Finance-Foundation/FinRL
 
@@ -27,7 +27,7 @@ Reinforcement learning (RL) trains an agent to solve tasks by trial and error, w
 
 .. _FinRL: https://github.com/AI4Finance-Foundation/FinRL
 
-Join or discuss FinRL: `AI4Finance mailing list <https://groups.google.com/u/1/g/ai4finance>`_.
+Join or discuss FinRL with us: `AI4Finance mailing list <https://groups.google.com/u/1/g/ai4finance>`_.
 
 Feel free to leave us feedback: report bugs using `Github issues`_ or discuss FinRL development in the Slack Channel.
 
@@ -38,18 +38,19 @@ Feel free to leave us feedback: report bugs using `Github issues`_ or discuss Fi
    :width: 400
    :align: center
 
+|
 
 .. toctree::
    :maxdepth: 1
    :hidden:
-   
+
    Home <self>
 
 
 .. toctree::
    :maxdepth: 1
    :caption: Getting Started
-   
+
    start/introduction
    start/first_glance
    start/three_layer
@@ -57,7 +58,7 @@ Feel free to leave us feedback: report bugs using `Github issues`_ or discuss Fi
    start/quick_start
 
 
-.. toctree:: 
+.. toctree::
    :maxdepth: 1
    :caption: FinRL-Meta
 
@@ -69,23 +70,25 @@ Feel free to leave us feedback: report bugs using `Github issues`_ or discuss Fi
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Tutorials
 
    tutorial/Guide
+   tutorial/Homegrown_example
    tutorial/1-Introduction
    tutorial/2-Advance
    tutorial/3-Practical
    tutorial/4-Optimization
    tutorial/5-Others
-   
-   
+
+
 .. toctree::
    :maxdepth: 1
    :caption: Developer Guide
 
    developer_guide/file_architecture
    developer_guide/development_setup
+   developer_guide/contributing
 
 
 .. toctree::
